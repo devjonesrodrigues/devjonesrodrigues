@@ -7,5 +7,5 @@ Sobre Mim <br> <br>
 
 Contato: <br>
 📧 devjonesrodrigues@gmail.com <br>
-🔗 <a href="www.linkedin.com/in/jones-rodrigues-997635281">Linkedin</a>  <br> <br>
+🔗 <a href="https://www.linkedin.com/in/jones-rodrigues-997635281/">Linkedin</a>  <br> <br>
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutir colaborações ou apenas trocar ideias sobre desenvolvimento web. Vamos construir algo incrível juntos! 🚀 <br> 
